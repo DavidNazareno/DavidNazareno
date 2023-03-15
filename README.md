@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm David Nazareno</h1>
 <h3 align="center">A passionate Fullstack developer</h3>
-<h1 align="center">
-    <img  src='https://streak-stats.demolab.com?user=davidnazareno&theme=github-dark-blue&hide_border=true'/>
-
-    </h1>
+<h1 align="center"><img src='https://streak-stats.demolab.com?user=davidnazareno&theme=github-dark-blue&hide_border=true'/></h1>
 
 ```javascript
 const DavidNazareno = {
