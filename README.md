@@ -1,4 +1,5 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm David Nazareno</h1>
+<h3 align="center">A passionate Fullstack developer</h3>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=davidnazareno&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
 
@@ -38,12 +39,6 @@ const DavidNazareno = {
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
 ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
-
-
-<h1 align="center">Hi 👋, I'm David Nazareno</h1>
-<h3 align="center">A passionate Fullstack developer</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=davidnazareno" alt="davidnazareno" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
