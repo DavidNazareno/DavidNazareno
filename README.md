@@ -26,6 +26,7 @@ const DavidNazareno = {
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
 };
 ```
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidnazareno&hide_progress=true)](https://github.com/davidnazareno/github-readme-stats)
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
