@@ -3,10 +3,13 @@
 ```javascript
 const DavidNazareno = {
     code: ["Javascript", "Go", "Dart" ],
-    askMeAbout: ["web dev", "tech", "app dev", "video games"],
+    askMeAbout: ["web dev", "tech", "app dev", "video games", "crypto"],
     technologies: {
         backEnd: {
             js: ["Node", "apollo", "Express","Go"],
+        },
+        frontEnd: {
+            js: ["React", "Tailwind", "Next", "CSS"],
         },
         mobileApp: {
             native: ["Flutter Development"]
