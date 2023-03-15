@@ -39,7 +39,7 @@ const DavidNazareno = {
 ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
 ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
 
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=davidnazareno&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 <!--
 **DavidNazareno/DavidNazareno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
