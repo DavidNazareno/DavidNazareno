@@ -6,10 +6,13 @@ const DavidNazareno = {
     askMeAbout: ["web dev", "tech", "app dev", "video games", "crypto"],
     technologies: {
         backEnd: {
-            js: ["Node", "apollo", "Express","Go"],
+            js: ["Node", "apollo", "Express"],
+            typescript: ["Node", "apollo", "Express"]
+            go: ["grahpql","mux"]
         },
         frontEnd: {
             js: ["React", "Tailwind", "Next", "CSS"],
+            typescript: ["React", "Tailwind", "Next", "CSS"]
         },
         mobileApp: {
             native: ["Flutter Development"]
