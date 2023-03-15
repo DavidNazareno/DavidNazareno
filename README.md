@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidnazareno&hide=csharp)](https://github.com/davidnazareno/github-readme-stats)
+[![Stats](https://github-readme-stats.vercel.app/api/wakatime?username=davidnazareno)](https://github.com/anuraghazra/github-readme-stats)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=davidnazareno&theme=dark&show_icons=true)
 
 <!--
