@@ -1,7 +1,15 @@
 ### Hi there 👋
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=davidnazareno)](https://github.com/davidnazareno/github-readme-stats)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=davidnazareno&theme=dark&show_icons=true)
+
+<p>
+  <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=for-the-badge" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge" />
+  <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
+  <img alt="Css" src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
+  <img alt="GraphQl" src="https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white&style=for-the-badge" />
+  <img alt="Go" src="https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white&style=for-the-badge" />
+</p>
 
 <!--
 **DavidNazareno/DavidNazareno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
