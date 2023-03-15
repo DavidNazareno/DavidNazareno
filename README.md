@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm David Nazareno</h1>
 <h3 align="center">A passionate Fullstack developer</h3>
-<img align="center" src='https://streak-stats.demolab.com?user=davidnazareno&theme=github-dark-blue&hide_border=true'/>
+<h1 align="center">
+    <img  src='https://streak-stats.demolab.com?user=davidnazareno&theme=github-dark-blue&hide_border=true'/>
+
+    </h1>
 
 ```javascript
 const DavidNazareno = {
@@ -44,11 +47,6 @@ const DavidNazareno = {
 <a href="https://twitter.com/davidnzareno" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="davidnzareno" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/davidnazareno" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="davidnazareno" height="30" width="40" /></a>
 </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=davidnazareno&show_icons=true&locale=en&layout=compact" alt="davidnazareno" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=davidnazareno&show_icons=true&locale=en" alt="davidnazareno" /></p>
-
 
 <!--
 **DavidNazareno/DavidNazareno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
