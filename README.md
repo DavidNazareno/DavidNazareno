@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Stats](https://github-readme-stats.vercel.app/api/wakatime?username=davidnazareno)](https://github.com/davidnazareno/github-readme-stats)
+[![Stats](https://github-readme-stats.vercel.app/api?username=davidnazareno)](https://github.com/davidnazareno/github-readme-stats)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=davidnazareno&theme=dark&show_icons=true)
 
 <!--
