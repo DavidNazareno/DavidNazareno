@@ -2,7 +2,7 @@
 
 ```javascript
 const DavidNazareno = {
-    code: ["Javascript", "Go", "Dart" ],
+    code: ["Javascript","Typescript" ,"Go", "Dart" ],
     askMeAbout: ["web dev", "tech", "app dev", "video games", "crypto"],
     technologies: {
         backEnd: {
