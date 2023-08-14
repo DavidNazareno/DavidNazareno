@@ -9,8 +9,8 @@ const DavidNazareno = {
     technologies: {
         backEnd: {
             js: ["Node", "apollo", "Express"],
-            typescript: ["Node", "apollo", "Express"]
-            go: ["grahpql","mux"]
+            typescript: ["Node", "apollo", "Express"],
+            go: ["grahpql","mux"],
         },
         frontEnd: {
             js: ["React", "Tailwind", "Next", "CSS"],
@@ -20,8 +20,8 @@ const DavidNazareno = {
             native: ["Flutter Development"]
         },
         devOps: ["AWS"],
-        databases: ["mongo", "MySql", "sqlite"],
-        misc: ["Firebase", "AWS",]
+        databases: ["mongo", "MySql", "sqlite","Postgres"],
+        misc: ["Firebase", "AWS","Supabase"]
     },
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
 };
